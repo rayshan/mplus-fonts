@@ -4,15 +4,15 @@ M+ FONTS For Google Fonts
 ===
 
 
-This repository is a subset of the M+ FONTS project, based on TESTFLIGHT-060, for distribution on Google Fonts. It is prepared by Ray Shan with permission from fonts' author Coji Morishita.
+This repository is a subset of the [M+ FONTS project](https://mplus-fonts.osdn.jp/), based on [TESTFLIGHT-060](http://mplus-fonts.osdn.jp/cgi-bin/blosxom.cgi/mplus_fonts/mplus_fonts-150626-2.html) release, for distribution on Google Fonts. It is prepared by Ray Shan with permission from fonts' author [Coji Morishita](https://twitter.com/coz).
 
 Copyright (C) 2002-2015 M+ FONTS PROJECT / Coji Morishita 森下浩司
 
-Only the contents of this repository, not the upstream source, is licensed under SIL OFL 1.1.
+Only the contents of this repository, not the [upstream source](https://osdn.jp/projects/mplus-fonts/), is licensed under SIL OFL 1.1.
 
 ---
 
-From M+ repository's README_E & README_J:
+Below exerpt are taken from M+ repository's README_E, README_J files and the [official website](https://mplus-fonts.osdn.jp/):
 
 M+ OUTLINE FONTS は 2 種類のかな文字を持つ固定幅和文フォントと 4 種類の
 プロポーショナル欧文フォント、3 種類の半角固定幅欧文フォントの組み合わせから
@@ -23,6 +23,10 @@ The M+ OUTLINE FONTS are distributed with proportional Latin (4 variations), fix
 
 
 ## プロポーショナルフォント（和文は全角固定幅、欧文・数字はプロポーショナル）PROPORTIONAL FONTS (proportional Latin and fixed-fullwidth Japanese)
+
+明るく伸びやかなデザインを心がけた M+ P、文字組みの時のまとまりの良さを意識して再設計された M+ C。どちらも和文 M+ 1 との組み合わせを前提とした Type-1（M+ P Type-1、M+ C Type-1）、M+ 2 用に一部の文字が差し替えられた Type-2（M+ P Type-2、M+ C Type-2）の各 2 種類があります。
+
+M+ P is aimed as sophisticated and relaxed design, while M+ C is optimized to be proportioned well in typesetting. Each have 2 variations: Type-1 (M+ P Type-1, M+ C Type-1) are intended to use with M+ 1 Japanese glyphs; Type-2 (M+ P Type-2, M+ C Type-2) has several altenative glyphs different from Type-1 to match with the design of M+ 2 Japanese glyphs.
 
 **M+ 1P**
 - mplus-1p-thin.ttf
@@ -63,6 +67,10 @@ The M+ OUTLINE FONTS are distributed with proportional Latin (4 variations), fix
 
 ## 固定幅フォント（和文は全角、欧文・数字は半角の固定幅）FIXED-WIDTH FONTS (fixed-halfwidth Latin and fixed-fullwidth Japanese)
 
+識別性を重視しつつ素直な字形を目指した M+ M、コーディングのための新しいデザイン性を意識した M+ MN。和文 M+ 1 との組み合わせを前提とした M+ M Type-1 と M+ MN Type-1、M+ 2 用に一部の文字が差し替えられた M+ M Type-2 の 3 種類があります。
+
+M+ M emphasize the balance of natural letterform and high legibility. while M+ MN is aimed at a new distinctive design for a terminal font specialized to programming. There are 3 variations: M+ M Type-1 and M+ MN Type-1 are intended to use with M+ 1 Japanese glyphs; M+ M Type-2 has several altenative glyphs different from Type-1 to match with the design of M+ 2 Japanese glyphs.
+
 **M+ 1M**
 - mplus-1m-thin.ttf
 - mplus-1m-light.ttf
@@ -83,11 +91,6 @@ The M+ OUTLINE FONTS are distributed with proportional Latin (4 variations), fix
 - mplus-1mn-regular.ttf
 - mplus-1mn-medium.ttf
 - mplus-1mn-bold.ttf
-
-かな文字と常用漢字、基本的な欧文グリフが揃い、一般的な文章の大半の文字を表示
-できるようになりました。不足している文字は他のフォントからの自動補完、
-IPAG フォントとの合成などで補うことができます。
-M+ OUTLINE FONTS の詳細、お問い合わせなどは以下の URL からお願いします。
 
 ---
 
