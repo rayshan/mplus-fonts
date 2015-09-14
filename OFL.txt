@@ -1,19 +1,13 @@
-Copyright (c) 2002-2015, M+ FONTS PROJECT / Coji Morishita 森下浩司 (co@underforest.com),
-with Reserved Font Name "M+ FONTS" and ""MPLUS FONTS".
+Copyright (c) 2002-2015 Coji Morishita 森下浩司 (co@underforest.com)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-
-This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
-
-**Only the contents of this repository, not the [upstream source](https://osdn.jp/projects/mplus-fonts/), is licensed under SIL OFL 1.1.**
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
 
 
----
-
-```
-SIL OPEN FONT LICENSE
-
-Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
 
 PREAMBLE
 The goals of the Open Font License (OFL) are to stimulate worldwide
@@ -43,7 +37,7 @@ copyright statement(s).
 distributed by the Copyright Holder(s).
 
 "Modified Version" refers to any derivative made by adding to, deleting,
-or substituting — in part or in whole — any of the components of the
+or substituting -- in part or in whole -- any of the components of the
 Original Version, by changing formats or by porting the Font Software to a
 new environment.
 
@@ -97,4 +91,3 @@ INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
 DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
-```

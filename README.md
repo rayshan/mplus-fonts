@@ -4,7 +4,7 @@ M+ FONTS For Google Fonts
 ===
 
 
-This repository is a subset of the [M+ FONTS project](https://mplus-fonts.osdn.jp/), based on [TESTFLIGHT-060](http://mplus-fonts.osdn.jp/cgi-bin/blosxom.cgi/mplus_fonts/mplus_fonts-150626-2.html) release, for distribution on Google Fonts. It is prepared by Ray Shan with permission from fonts' author [Coji Morishita](https://twitter.com/coz).
+This repository is a subset of the [M+ FONTS project](https://mplus-fonts.osdn.jp/), based on [`TESTFLIGHT-060`](http://mplus-fonts.osdn.jp/cgi-bin/blosxom.cgi/mplus_fonts/mplus_fonts-150626-2.html) release, for distribution on Google Fonts. It is prepared by Ray Shan with permission from fonts' author [Coji Morishita](https://twitter.com/coz).
 
 Copyright (C) 2002-2015 M+ FONTS PROJECT / Coji Morishita 森下浩司
 
