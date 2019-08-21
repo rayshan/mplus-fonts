@@ -3,6 +3,7 @@
 M+ FONTS For Google Fonts
 ===
 
+## Description
 
 This repository is a subset of the [M+ FONTS project](https://mplus-fonts.osdn.jp/), based on [`TESTFLIGHT-060`](http://mplus-fonts.osdn.jp/cgi-bin/blosxom.cgi/mplus_fonts/mplus_fonts-150626-2.html) release, for distribution on Google Fonts. It is prepared by Ray Shan with permission from fonts' author [Coji Morishita](https://twitter.com/coz). The status of distributing these fonts on Google Fonts is tracked [here](https://github.com/google/fonts/issues/62).
 
@@ -10,7 +11,13 @@ Copyright (C) 2002-2015 M+ FONTS PROJECT / Coji Morishita 森下浩司
 
 Only the contents of this repository, not the [upstream source](https://osdn.jp/projects/mplus-fonts/), is licensed under SIL OFL 1.1.
 
----
+## News
+
+M PLUS 1p and M PLUS Rounded 1c are included in [Google Fonts](https://fonts.google.com/?query=m+plus) and [Google Fonts + 日本語](https://googlefonts.github.io/japanese/).
+
+Progress on including other M+ variants can be tracked in the [Google Fonts repo here](https://github.com/google/fonts/issues/62).
+
+## README from upstream source
 
 Below exerpt are taken from M+ repository's README_E, README_J files and the [official website](https://mplus-fonts.osdn.jp/):
 
@@ -92,7 +99,7 @@ M+ M emphasize the balance of natural letterform and high legibility. while M+ M
 - mplus-1mn-medium.ttf
 - mplus-1mn-bold.ttf
 
----
+## Resource Links
 
 M+ OUTLINE FONTS
 http://mplus-fonts.sourceforge.jp/mplus-outline-fonts/
